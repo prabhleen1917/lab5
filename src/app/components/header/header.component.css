@@ -1,0 +1,14 @@
+.main-header {
+    background-color: #007bff; /* A nice blue header background */
+    color: white; /* White text color */
+    padding: 10px 20px; /* Some padding around the content */
+    text-align: center; /* Center the heading */
+  }
+  
+  /* Make the header responsive */
+  @media (max-width: 768px) {
+    .main-header {
+      padding: 5px 10px; /* Less padding on smaller screens */
+    }
+  }
+  
